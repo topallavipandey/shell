@@ -7,18 +7,19 @@
 
 
 
-a
+
 echo "Enter the loop iteration"
-read $a
+read a
 
 i=0
 z=5
-while [ "$i" -lt "$z" ]
+while [ $i -lt $z ]
 
 do 
 
-echo "Number is " $i
-i=`expr $i + 1`
+    echo "Number is " $i
+    i=`expr $i + 1`
+    #(( i++ ))
 
 done
 
