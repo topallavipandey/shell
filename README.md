@@ -60,9 +60,8 @@ This provides the basic shell commands for beginners.
 
 
 # Programs 
-  * [echo ]
-    https://github.com/topallavipandey/shell/blob/master/programs/echo.sh
-  2. 
+  * [echo] https://github.com/topallavipandey/shell/blob/master/programs/echo.sh
+  
     
   
   
