@@ -56,10 +56,13 @@ This provides the basic shell commands for beginners.
   
 # wc -l filename 
   - count the number of lines in the file .
+  
 
 
 # Programs 
   1. echo 
+    https://github.com/topallavipandey/shell/blob/master/programs/echo.sh
+  2. 
     
   
   
