@@ -12,7 +12,7 @@ z=x
 for (( i=0; i<$z; i++ ))
     do
         echo "loop number : $i"
-        (( i++ ))
+       # (( i++ ))
 
     done
 
