@@ -71,6 +71,8 @@ This provides the basic shell commands for beginners.
 4. ? (single charatcter or digit )
 5. ab[0-9]* (starting with ab and after that any no of digits)
 
+# cut 
+cat file.txt | cut -d : -f 3 
 
 # Programs 
 
