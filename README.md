@@ -79,6 +79,10 @@ cat file.txt | cut -d : -f 3
 - uniq can be used with sort 
 - sor -n sort as number 
 
+# passwd 
+ - to change the password 
+
+
 # Programs 
 
 | Program | Sctipt |
