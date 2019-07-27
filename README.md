@@ -62,6 +62,16 @@ This provides the basic shell commands for beginners.
    
 # which java 
    - shows the path of the java setup
+   
+   
+# regex : 
+1. * 
+2. [a-z] (single char )
+3. [0-9] (single digit )
+4. ? (single charatcter or digit )
+5. ab[0-9]* (starting with ab and after that any no of digits)
+
+
 # Programs 
 
 | Program | Sctipt |
