@@ -59,6 +59,9 @@ This provides the basic shell commands for beginners.
 
 # find /home/pallavi -name pallavi.txt
    - search file in desktop
+   
+# which java 
+   - shows the path of the java setup
 # Programs 
 
 | Program | Sctipt |
