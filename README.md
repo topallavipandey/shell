@@ -11,15 +11,15 @@ This provides the basic shell commands for beginners.
 
 
 
-| Commands   |      Commands      |  Commands |commands |
-|----------|:-------------:|------:|------:|
-| ls | mkdir | find |for|
-| ll|    cd    |   which |if|
-| pwd | #!/bin/bash |    cut |while|
-| history |rm |    sort |$((i++))|
+| Commands   |      Commands      |  Commands |commands |commands |
+|----------|:-------------:|------:|------:|------:|
+| ls | mkdir | find |for| |
+| ll|    cd    |   which |if| |
+| pwd | #!/bin/bash |    cut |while| |
+| history |rm |    sort |$((i++))| |
 | env |touch |    uniq |echo|i=5 assign command or variable|
-| cat | whoami |    passwd | date|
-| chmod | wc |    rev | check file or dir|
+| cat | whoami |    passwd | date| |
+| chmod | wc |    rev | check file or dir| |
 
 # ls -l 
   - this does the long listing and display the all the files in the directory .
