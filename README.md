@@ -15,6 +15,17 @@ This provides the basic shell commands for beginners.
 - history
 - env 
 
+
+| Commands   |      Commands      |  Commands |
+|----------|:-------------:|------:|
+| ls |  left-aligned | $1600 |
+| ll|    centered   |   $12 |
+| pwd | right-aligned |    $1 |
+| history | right-aligned |    $1 |
+| env | right-aligned |    $1 |
+| cat | right-aligned |    $1 |
+| chmod | right-aligned |    $1 |
+
 # ls -l 
   - this does the long listing and display the all the files in the directory .
   
