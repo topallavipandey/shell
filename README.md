@@ -82,6 +82,10 @@ cat file.txt | cut -d : -f 3
 # passwd 
  - to change the password 
 
+# rev file.txt
+this reverses the string or file content line bu line 
+
+
 
 # Programs 
 
