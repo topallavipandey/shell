@@ -58,8 +58,7 @@ This provides the basic shell commands for beginners.
   - count the number of lines in the file .
 
 # find /home/pallavi -name pallavi.txt
-
-
+   - search file in desktop
 # Programs 
 
 | Program | Sctipt |
