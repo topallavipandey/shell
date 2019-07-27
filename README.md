@@ -74,6 +74,11 @@ This provides the basic shell commands for beginners.
 # cut 
 cat file.txt | cut -d : -f 3 
 
+#  cat sample.txt  | cut -d : -f 3 | sort -n  | uniq
+
+- uniq can be used with sort 
+- sor -n sort as number 
+
 # Programs 
 
 | Program | Sctipt |
