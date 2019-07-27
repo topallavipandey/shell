@@ -13,13 +13,13 @@ This provides the basic shell commands for beginners.
 
 | Commands   |      Commands      |  Commands |
 |----------|:-------------:|------:|
-| ls | mkdir | $1600 |
-| ll|    cd    |   $12 |
-| pwd | #!/bin/bash |    $1 |
-| history |rm |    $1 |
-| env |touch |    $1 |
-| cat | whoami |    $1 |
-| chmod | wc |    $1 |
+| ls | mkdir | find |
+| ll|    cd    |   which |
+| pwd | #!/bin/bash |    cut |
+| history |rm |    sort |
+| env |touch |    uniq |
+| cat | whoami |    passwd |
+| chmod | wc |    rev |
 
 # ls -l 
   - this does the long listing and display the all the files in the directory .
