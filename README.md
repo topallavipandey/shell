@@ -17,7 +17,7 @@ This provides the basic shell commands for beginners.
 | ll|    cd    |   which |if| |
 | pwd | #!/bin/bash |    cut |while| |
 | history |rm |    sort |$((i++))| |
-| env |touch |    uniq |echo|i=5 assign command or variable|
+| env |touch |    uniq |echo|assignment|
 | cat | whoami |    passwd | date| |
 | chmod | wc |    rev | check file or dir| |
 
