@@ -65,7 +65,7 @@ This provides the basic shell commands for beginners.
    
    
 # regex : 
-1. * 
+1.  *  
 2. [a-z] (single char )
 3. [0-9] (single digit )
 4. ? (single charatcter or digit )
