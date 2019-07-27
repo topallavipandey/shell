@@ -6,6 +6,15 @@
 
 This provides the basic shell commands for beginners.
 
+
+#### List 
+
+- ls    - cat 
+- ll    - chmod 
+- pwd
+- history
+- env 
+
 # ls -l 
   - this does the long listing and display the all the files in the directory .
   
