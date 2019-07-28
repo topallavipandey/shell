@@ -18,7 +18,7 @@ This provides the basic shell commands for beginners.
 | pwd | #!/bin/bash |    cut |while|$# |
 | history |rm |    sort |$((i++))|$0 |
 | env |touch |    uniq |echo|assignment|
-| cat | whoami |    passwd | date| |
+| cat | whoami |    passwd | date|if [[ $a > $ b ]] |
 | chmod | wc |    rev | check file or dir| |
 
 # ls -l 
