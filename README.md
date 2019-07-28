@@ -11,7 +11,7 @@ This provides the basic shell commands for beginners.
 
 
 
-| Commands   |      Commands      |  Commands |commands |commands |
+| Commands   |      Commands      |  Commands |Commands |Commands |
 |----------|:-------------:|------:|------:|------:|
 | ls | mkdir | find |for| $$|
 | ll|    cd    |   which |if|$1 |
