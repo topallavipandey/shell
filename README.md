@@ -19,7 +19,7 @@ This provides the basic shell commands for beginners.
 | history |rm |    sort |$((i++))|$0 |
 | env |touch |    uniq |echo|assignment|
 | cat | whoami |    passwd | date|if [[ $a > $ b ]] |
-| chmod | wc |    rev | check file or dir| |
+| chmod | wc |    rev | check file or dir|String comparison == , != , -z , -n , > , < |
 
 # ls -l 
   - this does the long listing and display the all the files in the directory .
