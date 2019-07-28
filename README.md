@@ -13,10 +13,10 @@ This provides the basic shell commands for beginners.
 
 | Commands   |      Commands      |  Commands |commands |commands |
 |----------|:-------------:|------:|------:|------:|
-| ls | mkdir | find |for| |
-| ll|    cd    |   which |if| |
-| pwd | #!/bin/bash |    cut |while| |
-| history |rm |    sort |$((i++))| |
+| ls | mkdir | find |for| $$|
+| ll|    cd    |   which |if|$1 |
+| pwd | #!/bin/bash |    cut |while|$# |
+| history |rm |    sort |$((i++))|$0 |
 | env |touch |    uniq |echo|assignment|
 | cat | whoami |    passwd | date| |
 | chmod | wc |    rev | check file or dir| |
