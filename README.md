@@ -14,7 +14,7 @@ This provides the basic shell commands for beginners.
 | Commands   |      Commands      |  Commands |Commands |Commands |Commands|
 |----------|:-------------:|------:|------:|------:|-----:|
 | ls | mkdir | find |for| $$|uname -n (node/computer name|
-| ll|    cd    |   which |if|$1 | |
+| ll|    cd    |   which |if|$1 | linux name cat /etc/*release*|
 | pwd | #!/bin/bash |    cut |while|$# | |
 | history |rm |    sort |$((i++))|$0 | |
 | env |touch |    uniq |echo|assignment| |
