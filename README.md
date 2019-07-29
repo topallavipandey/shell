@@ -16,8 +16,8 @@ This provides the basic shell commands for beginners.
 | ls | mkdir | find |for| $$|uname -n (node/computer name|
 | ll|    cd    |   which |if|$1 | linux name cat /etc/*release*|
 | pwd | #!/bin/bash |    cut |while|$# | chmod 777 fiename (4 read , 2 write , 1 execute )|
-| history |rm |    sort |$((i++))|$0 | |
-| env |touch |    uniq |echo|assignment| |
+| history |rm |    sort |$((i++))|$0 |chown newowner filename (-R ) |
+| env |touch |    uniq |echo|assignment|chgrp newgroup filename |
 | cat | whoami |    passwd | date|if [[ $a > $ b ]] | |
 | chmod | wc |    rev | check file or dir|String comparison == , != , -z , -n , > , < | |
 
