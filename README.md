@@ -19,7 +19,7 @@ This provides the basic shell commands for beginners.
 | history |rm |    sort |$((i++))|$0 |chown newowner filename (-R ) |
 | env |touch |    uniq |echo|assignment|chgrp newgroup filename |
 | cat | whoami |    passwd | date|if [[ $a > $ b ]] |tail -f filename (live feed) (-10 last 10 lines) |
-| chmod | wc |    rev | check file or dir|String comparison == , != , -z , -n , > , < | |
+| chmod | wc |    rev | check file or dir|String comparison == , != , -z , -n , > , < |crontab -e (30 21 * * * echo hi >> /tmp/f1.txt ) |
 
 # ls -l 
   - this does the long listing and display the all the files in the directory .
